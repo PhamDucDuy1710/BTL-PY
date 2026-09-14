@@ -911,7 +911,7 @@ Dự án đã xây dựng được một hệ thống điểm danh tự động 
 
 # 22. TÁC GIẢ
 
-**Sinh viên thực hiện:** Duy Phạm
+**Sinh viên thực hiện:** 
 
 **Môn học:** Bài tập lớn Lập trình Python
 
